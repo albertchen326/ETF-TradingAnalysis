@@ -1,0 +1,56 @@
+1.    What the Project Want to Deliver?
+To construct a portfolio likely to deliver positive return in both bull and bear market. 
+i.)The correlation of UDOW and ERX is positive.
+ii.)The correlation of KOLD and DTO is positive.
+The correlation of i and ii are negative.
+The performance of energy sector is largely depends on oil and natural gas price.
+
+This project constructed of only 4 leverage ETF 
+1.    UDOW (three times (3x) the daily performance of the Dow Jones Industrial Average). UDOW is our broad market exposure. http://www.proshares.com/funds/udow.html
+2.    ERX (Daily Energy Bull 3X). ERX is our energy sector stocks exposure.
+http://www.direxioninvestments.com/products/direxion-daily-energy-bull-3x-etf
+3.    KOLD (inverse (-2x) of the daily performance of the Bloomberg Natural Gas Subindex) 
+http://www.proshares.com/funds/kold.html
+4.    DTO (2x daily short leverage to the broad based Deutsche Bank Liquid Commodity Index-Oil)
+http://etfdb.com/etf/DTO/
+
+    P.S The amount of leverage we use here is what we believe to be the best after risk/reward trade off after considering dairy rebalancing.
+
+1.    Why we want to short energy commodities to hedge against equity position?
+
+Based on the fact that energy commodities tend to fall in every financial crisis and market fear but in the bull market its price does not go up like the equity market.
+
+2.    Why this portfolio consist of only these four financial instrument?
+
+1.    We have exposure in UDOW based on the fact there is almost no stocks could go up in any financial crisis and for the past 10 years there is only very few stocks beat UDOW on a buy and hold strategies. After considering the low volatility of the Dow Jones industrial average, we choose to leverage it by +3 after risk/reward trade off.
+2.    Technology/biology/ finance do not have underlying commodity while energy sector got oil/ natural gas as underlying commodity. 
+3.    Based on my knowledge and observation natural gas price tend to 
+i)    Trade sideway in a bull market.
+ii)    Go up when the market goes up way too fast.
+iii)    Drop when the market goes down.
+iv)    Lag behind the equity market. 
+4.    Based on my knowledge oil price tend to 
+i)    Up in bull market but not as fast as the equity market.
+ii)    Efficient price (do not lag behind the equity market).
+iii)    Drop in when the market goes down.
+iv)    Very efficient price as to the energy sector
+
+Part two
+
+1.)    Define what is a market drop? 
+    When the Dow Jones fall by 8% from its previous peak. (any suggestion is strongly appreciated)
+2.) Define what does the market being so hot mean?
+    The Dow Jones go up over 6.5 % in a month. (any suggestion is strongly appreciated)
+2.)    Define what does an energy sector drop mean?
+
+
+
+Might also implement some technical indicator like 50 M.A and 200 M.A (to indicate when to rebalance or just cash out as cash), but not too much because our main purpose is to rebalance based on the correlation of these four financial instruments.
+
+
+http://www.proshares.com/funds/udow.html
+
+http://www.direxioninvestments.com/products/direxion-daily-energy-bull-3x-etf
+http://www.proshares.com/funds/kold.html
+
+http://etfdb.com/etf/DTO/

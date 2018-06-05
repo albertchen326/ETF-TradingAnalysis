@@ -1,0 +1,8 @@
+Data sources:
+
+		ERX: https://www.nasdaq.com/symbol/erx/historical
+		KOLD: https://www.nasdaq.com/symbol/kold/historical
+		DTO: https://www.nasdaq.com/symbol/dto/historical
+		UDOW: https://www.nasdaq.com/symbol/udow/historical
+
+The datasets are in csv format

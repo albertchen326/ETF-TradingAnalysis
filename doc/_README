@@ -1,0 +1,29 @@
+WORK PLAN 
+
+Collaborators Names: Kervi Ramos and Albert Chen
+
+This document summarizes the tasks to be performed to analyze four trade markets. 
+As of right now,  we have not determine the final analysis to conduct on the data. We will be exploring the dataset as an initial step.
+
+
+TASKS
+
+1) EXPLORATORY PHASE
+	
+	A) Define markets with a brief description. Summarize the data source per markets and the 	type of data available (define units for price, and date format). Add the IP address of the data 	source. (Doc name: TaskA.txt)
+	B) Download data from source stated in A)  (If time allows create a sql database using open 	source software SQLite - if not SQL import will be taken care on another TASK)
+
+	Data sources:
+
+		ERX: https://www.nasdaq.com/symbol/erx/historical
+		KOLD: https://www.nasdaq.com/symbol/kold/historical
+		DTO: https://www.nasdaq.com/symbol/dto/historical
+		UDOW: https://www.nasdaq.com/symbol/udow/historical
+	
+	B-1) The project's folder structure was built based on Daniel Chen Computational cookie cutter contribution on GitHub. 		Please visit https://github.com/chendaniely/computational-project-cookie-cutter from more details.
+
+	C) Data Wrangling using R - Tidy Verse tools
+
+	D) Create a plot that summarizes the four markets in one plot for the all the data available - 	ggplot 2 tools in R
+
+	E) Statistical summary analysis for all four markets. (Global mean, check distribution of the data, initial trend fitting
