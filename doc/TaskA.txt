@@ -1,3 +1,12 @@
+Objective:
+	To construct a portfolio: 
+1.	Consists of financial instruments with negative correlation in order to deliver positive return both in bull and bear market. 
+2.	Preliminary Long the U.S equity market by leverage ETF (UDOW: three times (3x) the daily performance of the Dow Jones Industrial Average). 
+3.	Hedge the risk by shorting energy commodity futures (crude oil futures and nature gas futures) through leverage ETF (DTO: daily short crude oil futures ETF, KOLD: daily short natural gas futures ETF)
+4.	Exploit the price between ERX and DTO by mean reversion (any suggestion is strongly appreciate).
+5.	Exploit the price between ERX and KOLD by time series analysis (any suggestion is strongly appreciate). 
+6.	Construct the optimal way to rebalancing these four financial instruments after calculating risk/ reward.
+
 1.    What the Project Want to Deliver?
 To construct a portfolio likely to deliver positive return in both bull and bear market. 
 i.)The correlation of UDOW and ERX is positive.
